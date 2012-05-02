@@ -2,7 +2,9 @@
   В базе есть таблица "accounts" со столбцами:
                                                 - name :      varchar(100);
                                                 - password :  varchar(150);
-                                                - money^      double(255,2) unsigned. */
+                                                - money:      double(255,2) unsigned. 
+                                                
+https://github.com/Sujiro/MyCode/tree/master/src/DZ                                                */
 
 
 package DZ;
